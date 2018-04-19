@@ -1,0 +1,26 @@
+environment*
+
+# C extensions
+*.so
+
+# Distribution / packaging
+downloads/
+lib/
+lib64/
+parts/
+sdist/
+var/
+.installed.cfg
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*,cover
+
+# Translations
+*.mo
+*.pot
+
+target/
